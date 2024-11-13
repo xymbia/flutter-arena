@@ -1,7 +1,3 @@
-Here's a README template you can adapt for your **"flutter-arena"** repository:
-
----
-
 # Flutter Arena
 
 Welcome to **Flutter Arena**! This repository serves as a testing ground for Flutter developers. The primary goal is to allow candidates to showcase their skills by building and submitting new Flutter widgets. Each candidate contributes through a pull request (PR) which will be evaluated based on coding practices, creativity, and functionality. This structured approach enables an efficient, hands-on assessment of Flutter skills.
