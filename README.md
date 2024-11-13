@@ -112,7 +112,7 @@ If you would like to contribute to the core functionality of Flutter Arena, such
 
 ## License
 
-This repository is licensed under the MIT License. See `LICENSE` for more information.
+This repository is licensed under the Apache 2.0 License. See `LICENSE` for more information.
 
 ---
 
